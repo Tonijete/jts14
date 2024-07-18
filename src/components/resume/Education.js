@@ -16,9 +16,21 @@ const Education = () => {
           des=""
         />
         <ResumeCard
+          badge="2021 - 2022"
+          title="Fullstack Web Developer (Remote)"
+          subTitle="CV Grafari Game"
+          des=""
+        />
+        <ResumeCard
           badge="2022 - 2023"
           title="Fullstack Developer"
-          subTitle="Perkasa Group"
+          subTitle="PT Graha Eektrindo Perkasa (Perkasa Group)"
+          des=""
+        />
+        <ResumeCard
+          badge="2024 - Sekarang"
+          title="Fullstack Developer (Remote)"
+          subTitle="School Sam One"
           des=""
         />
   

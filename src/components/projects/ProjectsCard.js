@@ -12,7 +12,7 @@ const ProjectsCard = ({ image, title, category, googleDriveLink }) => {
         />
         <div className="w-full h-full absolute top-0 left-0 hover:bg-gradient-to-r from-green-600 via-green-600 to-green-200 opacity-20"></div>
       </div>
-      <h3 className="font-titleFont text-lg font-semibold text-[#ccc]">
+      <h3 className="font-titleFont text-lg font-semibold text-[#ccc] center">
         {title}
       </h3>
       <p className="text-base text-gray-400 -mt-1">{category}</p>

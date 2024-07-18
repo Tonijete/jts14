@@ -136,7 +136,7 @@ const Home = () => {
               Contact
             </span>
           </span>
-          <a href ="https://wa.me/6282260850831">
+          <a href ="https://wa.me/62859106926981">
           <span className="w-full h-6 text-textColor text-xl flex items-center justify-center hover:text-designColor duration-300 cursor-pointer relative group">
             <BsTelephonePlusFill />
             <span className="text-black font-medium text-xs uppercase bg-designColor px-4 py-[1px] rounded-xl absolute left-0 translate-x-8 group-hover:translate-x-12 opacity-0 group-hover:opacity-100 transition-all duration-300 z-20">
@@ -189,7 +189,6 @@ const Home = () => {
                 <Projects />
               </motion.div>
             )}
-          
             {contact && (
               <motion.div
                 initial={{ opacity: 0 }}

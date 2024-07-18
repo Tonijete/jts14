@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/jts/static/css/main.0ed80ddb.css",
-    "main.js": "/jts/static/js/main.187c1aa4.js",
-    "static/media/Noor_Mohammad_resume.pdf": "/jts/static/media/Noor_Mohammad_resume.9b31b3dcf2d5307bd8f0.pdf",
-    "static/media/jtsImg.png": "/jts/static/media/jtsImg.26782750bd5552c3c185.png",
-    "static/media/workImgEight.jpg": "/jts/static/media/workImgEight.863efcb32ba563410bd6.jpg",
-    "static/media/workImgSeven.jpg": "/jts/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
-    "static/media/workImgThree.jpg": "/jts/static/media/workImgThree.f617087bdf72ace764ea.jpg",
-    "static/media/workImgFive.jpg": "/jts/static/media/workImgFive.7e88cef06bfeb0835605.jpg",
-    "static/media/workImgTwo.jpg": "/jts/static/media/workImgTwo.7433873bf3c337c65ffc.jpg",
-    "static/media/workImgSix.jpg": "/jts/static/media/workImgSix.d899a4337fada00f42a3.jpg",
-    "static/media/workImgFour.jpg": "/jts/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
-    "static/media/workImgOne.jpg": "/jts/static/media/workImgOne.294921da5954189699c7.jpg",
-    "index.html": "/jts/index.html",
-    "main.0ed80ddb.css.map": "/jts/static/css/main.0ed80ddb.css.map",
-    "main.187c1aa4.js.map": "/jts/static/js/main.187c1aa4.js.map"
+    "main.css": "/static/css/main.0ed80ddb.css",
+    "main.js": "/static/js/main.6d4d6750.js",
+    "static/media/jtsImg.png": "/static/media/jtsImg.26782750bd5552c3c185.png",
+    "static/media/CV_JajangToniSusilo.pdf": "/static/media/CV_JajangToniSusilo.bdda6de175ce173a790d.pdf",
+    "static/media/workImgEight.jpg": "/static/media/workImgEight.863efcb32ba563410bd6.jpg",
+    "static/media/workImgSeven.jpg": "/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
+    "static/media/workImgThree.jpg": "/static/media/workImgThree.f617087bdf72ace764ea.jpg",
+    "static/media/workImgFive.jpg": "/static/media/workImgFive.7e88cef06bfeb0835605.jpg",
+    "static/media/workImgTwo.jpg": "/static/media/workImgTwo.7433873bf3c337c65ffc.jpg",
+    "static/media/workImgSix.jpg": "/static/media/workImgSix.d899a4337fada00f42a3.jpg",
+    "static/media/workImg.jpg": "/static/media/workImg.d1b966eef2599c87b811.jpg",
+    "static/media/workImgFour.jpg": "/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
+    "static/media/workImgOne.jpg": "/static/media/workImgOne.294921da5954189699c7.jpg",
+    "index.html": "/index.html",
+    "main.0ed80ddb.css.map": "/static/css/main.0ed80ddb.css.map",
+    "main.6d4d6750.js.map": "/static/js/main.6d4d6750.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed80ddb.css",
-    "static/js/main.187c1aa4.js"
+    "static/js/main.6d4d6750.js"
   ]
 }

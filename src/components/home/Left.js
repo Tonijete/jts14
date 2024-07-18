@@ -4,7 +4,7 @@ import { BsCloudLightningFill, BsFacebook } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
 import { IoLogoTiktok } from "react-icons/io5";
 import { FiInstagram, FiMail, FiSend } from "react-icons/fi";
-import CV from "../../assets/Noor_Mohammad_resume.pdf";
+import CV from "../../assets/CV_JajangToniSusilo.pdf";
 import { jtsImg } from "../../assets/index";
 
 const Left = () => {
@@ -33,7 +33,7 @@ const Left = () => {
             <Cursor cursorBlinking="false" cursorStyle="|" />
           </p>
           <div className="flex justify-center gap-2 mt-2">
-            <a href="https://web.facebook.com/jajang.thoxx/">
+            <a href="#">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FaGithub />
             </span></a>
@@ -45,7 +45,7 @@ const Left = () => {
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiInstagram />
             </span></a>
-            <a href="mailto:alamat_email_jajang.tonisusilo14@gmail.com">
+            <a href="mailto:jajang.tonisusilo14@gmail.com">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiMail />
             </span></a>
@@ -66,7 +66,7 @@ const Left = () => {
             </button>
           </a>
           <a 
-            href = "https://wa.me/6282260850831"
+            href = "https://wa.me/62859106926981"
             className="w-1/2 border-t-[1px] borderRight border-t-zinc-800 text-sm tracking-wide uppercase  gap-2 hover:text-designColor duration-300"
             rel="noreferrer">
             <button className="w-full h-full flex justify-center items-center gap-2">

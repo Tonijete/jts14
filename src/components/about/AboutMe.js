@@ -8,7 +8,7 @@ const AboutMe = () => {
           <h2 className="font-semibold mb-1">JAJANG TONI SUSILO</h2>
           <p className="text-base leading-6 ">
           Saya Lulusan Universitas Islam Syekh Yusuf, Jurusan Teknik Informatika. 
-          Aktif Dalam Berorganisasi Badan Eksekutif Fakultas Teknik, Ingin Menjadi 
+          Aktif Dalam Berorganisasi Badan Eksekutif Mahasiswa Fakultas Teknik, Ingin Menjadi 
           Seorang Individu Yang Dapat Mengabdi Kepada Masyarakat Dan Selalu Menanamkan 
           Ketekunan, kegigihan, Kejujuran, Serta Kedisiplinan.
           Walk To The Talk.
@@ -31,7 +31,7 @@ const AboutMe = () => {
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Hobbi:</span>
-            Membaca, Futsal.
+            Membaca, Futsal, Traveling.
           </li>
         </ul>
       </div>

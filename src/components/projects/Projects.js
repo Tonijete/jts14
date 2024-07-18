@@ -1,11 +1,12 @@
 import React from "react";
 import {
-  workImgOne,
-  workImgThree,
+ 
+  workImg,
 
 } from "../../assets";
 import Title from "../home/Title";
 import ProjectsCard from "./ProjectsCard";
+
 
 const Projects = () => {
   return (
@@ -15,15 +16,53 @@ const Projects = () => {
         <div className="px-6">
           <ProjectsCard
             title="Website ERP Server" 
-            category="Website"
-            image={workImgThree} 
+            category="Web server"
+            image={workImg} 
             googleDriveLink ="https://drive.google.com/drive/folders/1b1Ci4g9Hm0G86JVrhd77S0av-edC1tuy"
             />
           <ProjectsCard
             title="Website Absensi Geolokasi"
             category="Website"
-            image={workImgOne}
+            image={workImg}
             googleDriveLink ="https://drive.google.com/drive/folders/1F8xmNR8XL_aWiG9r2pHQYLkQPs3yEAXf"
+          />
+          <ProjectsCard
+            title="Website Company"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="https://grahaindonesia.com"
+          />
+          <ProjectsCard
+            title="Web Server File Sharing"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="#"
+          />
+          </div>
+          <div className="px-6">
+          <ProjectsCard
+            title="Informasi dan Pelayanan Desa"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="#"
+          />
+          <ProjectsCard
+            title="Website Top Up Game"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="#"
+          />
+          <ProjectsCard
+            title="Website Film"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="#"
+          />
+          <ProjectsCard
+            title="E-learning School"
+            category="Website"
+            image={workImg}
+            googleDriveLink ="#"
           />
         </div>
       </div>

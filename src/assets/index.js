@@ -1,4 +1,5 @@
 import jtsImg from "./jtsImg.png";
+import workImg from "./work/workImg.jpg"
 import workImgOne from "./work/workImgOne.jpg"
 import workImgTwo from "./work/workImgTwo.jpg"
 import workImgThree from "./work/workImgThree.jpg"
@@ -10,6 +11,7 @@ import workImgEight from "./work/workImgEight.jpg"
 
 export { 
     jtsImg,
+    workImg,
     workImgOne,
     workImgTwo,
     workImgThree,

@@ -156,56 +156,68 @@ const Skills = () => {
         <span className="w-[1px] h-full bg-zinc-800 inline-flex"></span>
       </div>
       <div className="col-span-9 md:col-span-4">
-        <ResumeTitle title="Knowledge" icon={<IoIosPaper />} />
+        <ResumeTitle title="Pengetahuan" icon={<IoIosPaper />} />
         {/* English */}
         <ul className="py-4 flex flex-col gap-2 border-b-[1px] border-b-zinc-800">
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Website hosting
+            Bahasa Pemrograman
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            iOS and android apps
+            Algoritma dan Struktur Data
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Create logo design
+            Konsep Pemrograman
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Design for print
+            Pengembangan Perangkat Lunak
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Modern and mobile-ready
+            Pengujian Perangkat Lunak
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Advertising services include
+            Basis Data
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Graphics and animations
+            Pengembangan Web
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Search engine marketing
+            Keamanan Informasi
+          </li>
+          <li className="flex items-center gap-4 text-textColor">
+            <span className="text-designColor text-lg">
+              <GiCheckMark />
+            </span>
+            Jaringan Komputer
+          </li>
+          <li className="flex items-center gap-4 text-textColor">
+            <span className="text-designColor text-lg">
+              <GiCheckMark />
+            </span>
+            Sistem Operasi
           </li>
         </ul>
       </div>
